@@ -1,4 +1,4 @@
-# 🐴 **Arrieros Wealth AI**  
+# 🐴 **Arrieros Wealth AI**
 > _Harnessing intelligence to move knowledge across data — just like the arrieros once carried wealth across the mountains._
 
 ---
