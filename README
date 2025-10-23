@@ -1,5 +1,5 @@
 # Project Title
-Professional AI Project (Python)
+Arrieros Wealth IA  
 
 ## Overview
 A production-oriented Python project implementing an artificial intelligence system for research and deployment. Includes training pipelines, data processing, model storage, and evaluation tools.
@@ -16,6 +16,8 @@ A production-oriented Python project implementing an artificial intelligence sys
 Prerequisites
 - Python 3.8+
 - pip
+- Numpy
+- Pandas
 
 Install
 ```bash
