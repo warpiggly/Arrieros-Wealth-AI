@@ -1,0 +1,4 @@
+[core]
+    remote = local_remote
+['remote "local_remote"']
+    url = E:\MyPc\Documents\Programacion\Remote_dataset_My_AI_Project
